@@ -1,107 +1,174 @@
-# Hi 👋, I'm Mahad Baloch
+<h1 align="center">Hi 👋, I'm Mahad Baloch</h1>
 
+<h3 align="center">
 Junior Software Engineer • DevOps Enthusiast • AI Builder
+</h3>
 
-🎓 Computer Science Student @ SZABIST (CGPA: 3.48)
+<p align="center">
+Computer Science Student at <b>SZABIST</b> (CGPA: 3.48)<br>
+Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development.
+</p>
 
-☁️ Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development
+<p align="center">
+<a href="https://github.com/mahadb4">
+<img src="https://img.shields.io/github/followers/mahadb4?label=Followers&style=for-the-badge">
+</a>
 
-🚀 Building scalable applications, CI/CD pipelines, and AI-powered products
+<a href="https://github.com/mahadb4">
+<img src="https://img.shields.io/github/stars/mahadb4?affiliations=OWNER&style=for-the-badge">
+</a>
 
-## 🚀 About Me
+<a href="https://linkedin.com/in/mahad-baloch-2abc">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-🔭 Currently building full-stack and AI-powered applications
+<a href="mailto:mahadb@rocketmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-☁️ Learning AWS, Docker, GitHub Actions, Linux, and cloud infrastructure
+</p>
 
-🤖 Exploring AI Agents, LLMs, Gemini API, and Generative AI
+---
 
-📱 Interested in React Native, Backend Engineering, and DevOps
+# 🚀 About Me
 
-🎯 Looking for Software Engineering & DevOps internships
+💻 Junior Software Engineer passionate about building production-ready software.
 
-## 🛠️ Tech Stack
+☁️ Interested in DevOps, Cloud Infrastructure, Backend Engineering, and AI.
+
+🤖 Exploring AI Agents, LLM Integration, and Generative AI.
+
+📱 Building Full Stack and React Native applications.
+
+🎯 Currently looking for Software Engineering and DevOps Internship opportunities.
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-Python • JavaScript • TypeScript • SQL • Java • C • Bash
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![Bash](https://skillicons.dev/icons?i=bash)
 
 ### Frontend
 
-React • React Native • HTML • CSS
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
 ### Backend
 
-Node.js • Express.js • FastAPI • REST APIs
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
 ### Databases
 
-PostgreSQL • MongoDB • Firebase • Firestore
+![Postgres](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### DevOps & Cloud
+### DevOps
 
-Docker • Docker Compose • GitHub Actions • AWS EC2 • Nginx • Linux
+![Docker](https://skillicons.dev/icons?i=docker)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+![Git](https://skillicons.dev/icons?i=git)
 
-### AI
+---
 
-Gemini API • AI Agents • Prompt Engineering • LLM Integration
+# 🌟 Featured Projects
 
-## 🌟 Featured Projects
+## 🌱 GreenPulse
 
-### 🌱 GreenPulse
+AI-powered React Native application where Gemini AI verifies eco-friendly activities and rewards users.
 
-AI-powered mobile application where Gemini AI verifies eco-friendly activities and rewards users.
+**Tech**
 
-Tech: React Native • Firebase • Firestore • Cloud Functions • Gemini AI
+React Native • Firebase • Firestore • Cloud Functions • Gemini API
 
-### 🚀 FastAPI DevOps Project
+---
 
-Production-ready FastAPI service containerized with Docker and deployed using GitHub Actions CI/CD on AWS EC2.
+## 🚀 FastAPI DevOps Project
 
-Tech: Python • Docker • GitHub Actions • AWS EC2 • PostgreSQL
+Production-ready FastAPI application deployed using Docker, GitHub Actions, AWS EC2 and PostgreSQL.
 
-### 🏙️ KarachiPulse
+**Tech**
 
-Full-stack civic issue reporting platform with real-time updates and geospatial issue tracking.
+Python • Docker • GitHub Actions • AWS • PostgreSQL
 
-Tech: React • React Native • Node.js • Supabase • PostgreSQL
+---
 
-### 🛒 Laravel E-Commerce
+## 🏙 KarachiPulse
 
-Role-based e-commerce platform with authentication, admin approval, product management, and AJAX-powered shop.
+Full-stack civic issue reporting platform with authentication, maps, and real-time issue tracking.
 
-Tech: Laravel • PHP • MySQL • JavaScript
+**Tech**
 
-## 📈 GitHub Stats
+React • React Native • Node.js • PostgreSQL • Supabase
 
-Replace YOUR_USERNAME with mahadb4 after pasting:
+---
 
-GitHub Stats
+## 🛒 Laravel E-Commerce
 
-![Mahad's GitHub Stats](
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true
-)
+Role-based e-commerce platform with admin approval, authentication, product management, and AJAX shopping.
 
-GitHub Streak
+---
 
-![GitHub Streak](
-https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true
-)
+# 📊 GitHub Analytics
 
-Top Languages
+<p align="center">
 
-![Top Languages](
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true
-)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadb4&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 📫 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadb4&layout=compact&theme=tokyonight&hide_border=true"/>
 
-📧 Email: mahadb@rocketmail.com
+</p>
 
-💼 LinkedIn: linkedin.com/in/mahad-baloch-2abc
+<p align="center">
 
-🐙 GitHub: github.com/mahadb4
+<img src="https://streak-stats.demolab.com?user=mahadb4&theme=tokyonight&hide_border=true"/>
 
-### ⚡ Fun Fact
+</p>
 
-From AI-powered mobile apps to Dockerized cloud deployments, I enjoy turning ideas into real, production-ready software.
+---
+
+# 🎯 Currently Learning
+
+- Kubernetes
+- AWS
+- Azure DevOps
+- AI Agents
+- Machine Learning
+- System Design
+
+---
+
+# 🤝 Connect With Me
+
+📧 **Email**
+
+mahadb@rocketmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mahad-baloch-2abc
+
+🐙 **GitHub**
+
+https://github.com/mahadb4
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+</p>

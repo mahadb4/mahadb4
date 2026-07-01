@@ -5,25 +5,26 @@ Junior Software Engineer • DevOps Enthusiast • AI Builder
 </h3>
 
 <p align="center">
-Computer Science Student at <b>SZABIST</b> (CGPA: 3.48)<br>
-Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development.
+🎓 Computer Science Student at <strong>SZABIST</strong> (CGPA: 3.48)<br>
+🚀 Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development
 </p>
 
 <p align="center">
-<a href="https://github.com/mahadb4">
-<img src="https://img.shields.io/github/followers/mahadb4?label=Followers&style=for-the-badge">
-</a>
 
 <a href="https://github.com/mahadb4">
-<img src="https://img.shields.io/github/stars/mahadb4?affiliations=OWNER&style=for-the-badge">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mahad-baloch-2abc">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mahadb@rocketmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
@@ -32,55 +33,54 @@ Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development.
 
 # 🚀 About Me
 
-💻 Junior Software Engineer passionate about building production-ready software.
-
-☁️ Interested in DevOps, Cloud Infrastructure, Backend Engineering, and AI.
-
-🤖 Exploring AI Agents, LLM Integration, and Generative AI.
-
-📱 Building Full Stack and React Native applications.
-
-🎯 Currently looking for Software Engineering and DevOps Internship opportunities.
+- 💻 Junior Software Engineer passionate about building production-ready software.
+- ☁️ Interested in DevOps, Cloud Infrastructure, Backend Engineering, and System Design.
+- 🤖 Exploring AI Agents, LLM Integration, and Generative AI.
+- 📱 Building Full-Stack and React Native applications.
+- 🚀 Experienced with Docker, CI/CD, AWS, Firebase, and scalable backend services.
+- 🎯 Currently looking for Software Engineering, Backend, and DevOps Internship opportunities.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![Python](https://skillicons.dev/icons?i=python)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![TypeScript](https://skillicons.dev/icons?i=typescript)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![Bash](https://skillicons.dev/icons?i=bash)
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash"/>
+</p>
 
-### Frontend
+### 🎨 Frontend
 
-![React](https://skillicons.dev/icons?i=react)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css"/>
+</p>
 
-### Backend
+### ⚙️ Backend
 
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+</p>
 
-### Databases
+### 🗄️ Databases
 
-![Postgres](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql"/>
+</p>
 
-### DevOps
+### ☁️ DevOps & Cloud
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Nginx](https://skillicons.dev/icons?i=nginx)
-![Git](https://skillicons.dev/icons?i=git)
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github"/>
+</p>
+
+### 🤖 AI
+
+- Gemini API
+- AI Agents
+- Prompt Engineering
+- LLM Integration
+- Generative AI
 
 ---
 
@@ -88,37 +88,49 @@ Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development.
 
 ## 🌱 GreenPulse
 
-AI-powered React Native application where Gemini AI verifies eco-friendly activities and rewards users.
+AI-powered mobile application that verifies eco-friendly activities using Gemini AI and rewards users.
 
-**Tech**
+**Tech Stack**
 
 React Native • Firebase • Firestore • Cloud Functions • Gemini API
+
+🔗 https://github.com/mahadb4/GreenPulse
 
 ---
 
 ## 🚀 FastAPI DevOps Project
 
-Production-ready FastAPI application deployed using Docker, GitHub Actions, AWS EC2 and PostgreSQL.
+Production-ready FastAPI application containerized with Docker and deployed through GitHub Actions to AWS EC2.
 
-**Tech**
+**Tech Stack**
 
-Python • Docker • GitHub Actions • AWS • PostgreSQL
+Python • Docker • GitHub Actions • AWS EC2 • PostgreSQL
+
+🔗 https://github.com/mahadb4/Mahad-devops-project
 
 ---
 
-## 🏙 KarachiPulse
+## 🏙️ KarachiPulse
 
-Full-stack civic issue reporting platform with authentication, maps, and real-time issue tracking.
+Full-stack civic issue reporting platform with authentication, maps, real-time updates, and geospatial issue tracking.
 
-**Tech**
+**Tech Stack**
 
-React • React Native • Node.js • PostgreSQL • Supabase
+React • React Native • Node.js • Supabase • PostgreSQL
+
+🔗 https://github.com/mahadb4/Karachi_Pulse
 
 ---
 
 ## 🛒 Laravel E-Commerce
 
-Role-based e-commerce platform with admin approval, authentication, product management, and AJAX shopping.
+Role-based e-commerce platform featuring authentication, email verification, admin approval, product management, category management, and AJAX-powered shopping.
+
+**Tech Stack**
+
+Laravel • PHP • MySQL • JavaScript
+
+🔗 https://github.com/mahadb4/Laravel-Ecommerce-Store
 
 ---
 
@@ -126,7 +138,7 @@ Role-based e-commerce platform with admin approval, authentication, product mana
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadb4&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadb4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadb4&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -134,7 +146,7 @@ Role-based e-commerce platform with admin approval, authentication, product mana
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=mahadb4&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadb4&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -142,33 +154,47 @@ Role-based e-commerce platform with admin approval, authentication, product mana
 
 # 🎯 Currently Learning
 
-- Kubernetes
-- AWS
-- Azure DevOps
-- AI Agents
-- Machine Learning
-- System Design
+- ☸️ Kubernetes
+- ☁️ AWS
+- 🔄 CI/CD Best Practices
+- 🤖 AI Agents
+- 🧠 Machine Learning
+- 🏗️ System Design
 
 ---
 
-# 🤝 Connect With Me
+# 📈 2026 Goals
 
-📧 **Email**
+- 🚀 Secure a Software Engineering / DevOps Internship
+- ☁️ Earn AWS Cloud certifications
+- 🐳 Master Kubernetes
+- 🤖 Build production-grade AI applications
+- 📚 Strengthen Data Structures & Algorithms
+- 🌍 Contribute to Open Source
 
-mahadb@rocketmail.com
+---
 
-💼 **LinkedIn**
+# 🤝 Let's Connect
 
-https://linkedin.com/in/mahad-baloch-2abc
+<p align="center">
 
-🐙 **GitHub**
+<a href="mailto:mahadb@rocketmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-https://github.com/mahadb4
+<a href="https://linkedin.com/in/mahad-baloch-2abc">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mahadb4">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile!
-
+⭐ <strong>Thanks for visiting my profile!</strong><br><br>
+<em>Building scalable software, cloud infrastructure, and AI-powered products — one project at a time.</em>
 </p>

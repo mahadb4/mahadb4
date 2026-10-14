@@ -1,200 +1,289 @@
-<h1 align="center">Hi 👋, I'm Mahad Baloch</h1>
+# Hi 👋, I'm Mahad Baloch
 
-<h3 align="center">
-Junior Software Engineer • DevOps Enthusiast • AI Builder
-</h3>
+<h3 align="center">Software Engineering | DevOps & Cloud | AI Engineering</h3>
 
 <p align="center">
-🎓 Computer Science Student at <strong>SZABIST</strong> (CGPA: 3.48)<br>
-🚀 Passionate about Cloud, DevOps, AI Agents, and Full-Stack Development
+  🎓 Computer Science Student at SZABIST Karachi<br>
+  💻 Software Engineering Intern at Folio3 (Completed)<br>
+  ☁️ Interested in DevOps, Cloud Infrastructure, and AI Engineering
 </p>
 
 <p align="center">
-
-<a href="https://github.com/mahadb4">
-<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mahad-baloch-2abc">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mahadb@rocketmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-PDF-success?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
-
+  <a href="https://github.com/mahadb4">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/mahad-baloch-2abc">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mahadb@rocketmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🖥️ Terminal Profile
 
-- 💻 Junior Software Engineer passionate about building production-ready software.
-- ☁️ Interested in DevOps, Cloud Infrastructure, Backend Engineering, and System Design.
-- 🤖 Exploring AI Agents, LLM Integration, and Generative AI.
-- 📱 Building Full-Stack and React Native applications.
-- 🚀 Experienced with Docker, CI/CD, AWS, Firebase, and scalable backend services.
-- 🎯 Currently looking for Software Engineering, Backend, and DevOps Internship opportunities.
+<table>
+<tr>
+<td width="38%" align="center" valign="middle">
+
+```text
+          .-""""-.
+        .'  .--.  '.
+       /   /    \   \
+      |   |      |   |
+      |   |      |   |
+       \   \____/   /
+        '.        .'
+          '-.__.-'
+```
+
+**MAHAD BALOCH**
+
+</td>
+<td width="62%" valign="middle">
+
+```text
+mahad@szabist
+────────────────────────────────────
+OS          : Windows, Linux
+Education   : BS Computer Science
+University  : SZABIST Karachi
+CGPA        : 3.48 / 4.00
+Role        : Software Engineering
+Focus       : DevOps, Cloud, AI
+Languages   : Python, JavaScript, TypeScript
+Backend     : Django, DRF, FastAPI
+Database    : PostgreSQL, Redis, MySQL
+Cloud       : AWS EC2, S3
+DevOps      : Docker, GitHub Actions
+AI          : RAG, pgvector, Gemini API
+Experience  : 6+ years in leadership
+GitHub      : mahadb4
+LinkedIn    : mahad-baloch-2abc
+────────────────────────────────────
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 About Me
 
-### 💻 Languages
+I'm a Computer Science student at SZABIST Karachi with a strong interest in building reliable software systems, automating deployments, and developing AI-powered applications.
+
+- 💻 Completed a Software Engineering internship at **Folio3**.
+- ⚙️ Hands-on experience with backend development, REST APIs, database integration, caching, and cloud storage.
+- ☁️ Interested in DevOps, CI/CD pipelines, Docker, and AWS infrastructure.
+- 🤖 Exploring AI agents, Retrieval-Augmented Generation (RAG), and LLM integration.
+- 🧠 Enjoy solving challenging problems, experimenting with different approaches, and continuously learning.
+- 🤝 Bring over six years of experience in leadership, client management, sales, student guidance, and team coordination.
+
+My goal is to combine software engineering, cloud technologies, and AI to build practical, scalable solutions.
+
+---
+
+## 💼 Experience
+
+### Software Engineering Intern — Folio3
+**2026**
+
+- Gained practical experience in a professional software engineering environment.
+- Worked with Django, Django REST Framework, and PostgreSQL.
+- Implemented backend features involving authentication, authorization, pagination, and structured service layers.
+- Worked with Redis caching and AWS S3 integration.
+- Gained exposure to automated testing, debugging, and maintainable backend architecture.
+
+### Leadership & Client Management — CIBNP
+**2020 – Present**
+
+- Over six years of experience in student guidance, client management, sales, and coordination.
+- Managed student communication channels and coordinated with students throughout their learning journey.
+- Supported admissions, marketing activities, and client engagement.
+- Developed strong communication, leadership, problem-solving, and organizational skills.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,bash" alt="Languages"/>
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css"/>
+  <img src="https://skillicons.dev/icons?i=react,html,css" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" alt="Backend"/>
 </p>
 
-### 🗄️ Databases
+### Databases & Caching
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase" alt="Databases"/>
 </p>
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,githubactions" alt="DevOps and cloud"/>
 </p>
 
-### 🤖 AI
+### AI & Machine Learning
 
-- Gemini API
-- AI Agents
-- Prompt Engineering
-- LLM Integration
-- Generative AI
-
----
-
-# 🌟 Featured Projects
-
-## 🌱 GreenPulse
-
-AI-powered mobile application that verifies eco-friendly activities using Gemini AI and rewards users.
-
-**Tech Stack**
-
-React Native • Firebase • Firestore • Cloud Functions • Gemini API
-
-🔗 https://github.com/mahadb4/GreenPulse
+- Gemini API and LLM integration
+- Retrieval-Augmented Generation (RAG)
+- Vector search with pgvector
+- Prompt engineering and AI agents
+- Machine learning fundamentals
 
 ---
 
-## 🚀 FastAPI DevOps Project
+## 🌟 Featured Projects
 
-Production-ready FastAPI application containerized with Docker and deployed through GitHub Actions to AWS EC2.
+### 🎓 Student Management System
 
-**Tech Stack**
+A student management application with a Django backend and TypeScript frontend, integrating backend architecture, database operations, caching, cloud storage, and automated testing.
 
-Python • Docker • GitHub Actions • AWS EC2 • PostgreSQL
+**Highlights**
+- REST APIs with authentication and authorization
+- Structured repository and service layers
+- PostgreSQL database integration
+- Redis caching and pagination
+- AWS S3 integration with presigned URLs
+- Permission-aware data access and automated tests
 
-🔗 https://github.com/mahadb4/Mahad-devops-project
+**Tech Stack:** Django • Django REST Framework • PostgreSQL • Redis • AWS S3 • Docker • TypeScript
 
----
+🔗 [Frontend Repository](https://github.com/mahadb4/Student-management-Front-End)
 
-## 🏙️ KarachiPulse
-
-Full-stack civic issue reporting platform with authentication, maps, real-time updates, and geospatial issue tracking.
-
-**Tech Stack**
-
-React • React Native • Node.js • Supabase • PostgreSQL
-
-🔗 https://github.com/mahadb4/Karachi_Pulse
+🔗 Backend Repository: Add your public backend repository link here.
 
 ---
 
-## 🛒 Laravel E-Commerce
+### 🚀 FastAPI DevOps Project
 
-Role-based e-commerce platform featuring authentication, email verification, admin approval, product management, category management, and AJAX-powered shopping.
+A containerized FastAPI microservice with PostgreSQL and automated deployment to AWS EC2.
 
-**Tech Stack**
+**Highlights**
+- Docker and Docker Compose
+- PostgreSQL integration
+- GitHub Actions CI/CD
+- Automated deployment to AWS EC2
 
-Laravel • PHP • MySQL • JavaScript
+**Tech Stack:** Python • FastAPI • PostgreSQL • Docker • GitHub Actions • AWS EC2
 
-🔗 https://github.com/mahadb4/Laravel-Ecommerce-Store
+🔗 [View Repository](https://github.com/mahadb4/Mahad-devops-project)
 
 ---
 
-# 📊 GitHub Analytics
+### 🤖 RAG-Based AI Assistant
+
+An AI assistant that uses vector embeddings and similarity search to retrieve relevant information and support LLM-generated responses.
+
+**Highlights**
+- Embedding storage and retrieval with pgvector
+- Similarity-based document retrieval
+- Gemini API integration
+- Backend authentication and access control
+
+**Tech Stack:** Python • Django • PostgreSQL • pgvector • Gemini API
+
+🔗 Add your public repository link if available.
+
+---
+
+### 🌱 GreenPulse
+
+An AI-powered mobile application that verifies eco-friendly activities and rewards users.
+
+**Tech Stack:** React Native • Firebase • Firestore • Cloud Functions • Gemini API
+
+🔗 [View Repository](https://github.com/mahadb4/GreenPulse)
+
+---
+
+### 🏙️ KarachiPulse
+
+A civic issue reporting platform designed to help users report local problems with location-based tracking and real-time updates.
+
+**Tech Stack:** React • React Native • Node.js • Supabase • PostgreSQL
+
+🔗 [View Repository](https://github.com/mahadb4/Karachi_Pulse)
+
+---
+
+## ☁️ DevOps & Cloud
+
+- **Containerization:** Docker, Docker Compose
+- **CI/CD:** GitHub Actions
+- **Cloud Services:** AWS EC2, AWS S3
+- **Databases:** PostgreSQL, managed database integration, and backup workflows
+- **Deployment:** Vercel frontend deployment and AWS-hosted backend services
+- **Infrastructure:** Linux fundamentals, environment configuration, and service integration
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadb4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadb4&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mahadb4&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahadb4&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadb4&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Currently Learning
-
-- ☸️ Kubernetes
-- ☁️ AWS
-- 🔄 CI/CD Best Practices
-- 🤖 AI Agents
-- 🧠 Machine Learning
-- 🏗️ System Design
-
----
-
-# 📈 2026 Goals
-
-- 🚀 Secure a Software Engineering / DevOps Internship
-- ☁️ Earn AWS Cloud certifications
-- 🐳 Master Kubernetes
-- 🤖 Build production-grade AI applications
-- 📚 Strengthen Data Structures & Algorithms
-- 🌍 Contribute to Open Source
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:mahadb@rocketmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/mahad-baloch-2abc">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/mahadb4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahadb4&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
 
+## 🎯 Currently Learning
+
+- ☸️ Kubernetes and container orchestration
+- ☁️ AWS cloud architecture
+- 🔄 CI/CD and deployment automation
+- 🤖 AI agents and LLM-powered applications
+- 🧠 Machine learning
+- 🏗️ System design and scalable architecture
+
+---
+
+## 📈 Goals
+
+- Build and deploy production-oriented software applications.
+- Strengthen my DevOps and cloud engineering skills.
+- Develop practical AI-powered solutions.
+- Improve my understanding of system design and distributed systems.
+- Contribute to open-source projects and collaborate with the developer community.
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
-⭐ <strong>Thanks for visiting my profile!</strong><br><br>
-<em>Building scalable software, cloud infrastructure, and AI-powered products — one project at a time.</em>
+  <a href="mailto:mahadb@rocketmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/mahad-baloch-2abc">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mahadb4">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+  <br><br>
+  <em>Building software, automating infrastructure, and exploring AI — one project at a time.</em>
 </p>
